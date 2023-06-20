@@ -17,7 +17,7 @@ Integration with Existing Systems: The Iris Disease Diagnosis and Prediction app
 ## Installation
 To install and run the Iris Disease Diagnosis and Prediction project, follow these steps:
 
-Clone the project repository from GitHub: git clone https://github.com/your-username/iris-disease-diagnosis.git
+Clone the project repository from GitHub: git clone https://github.com/omi-sha/Hack-AI-Thon
 
 Navigate to the project directory: cd iris-disease-diagnosis
 
